@@ -20,10 +20,10 @@ export default function AboutSection() {
   }, []);
 
   const experiences = [
-    { number: "10+", label: "Happy Clients", icon: "👥" },
-    { number: "10+", label: "Projects Fixed", icon: "🔧" },
-    { number: "5+", label: "Weekly Users", icon: "👤" },
-    { number: "2+", label: "Years Experience", icon: "⭐" },
+    // { number: "10+", label: "Happy Clients", icon: "👥" },
+    { number: "5+", label: "Projects Fixed", icon: "🔧" },
+    // { number: "5+", label: "Weekly Users", icon: "👤" },
+    { number: "1+", label: "Years Experience", icon: "⭐" },
   ];
 
   const skills = [
@@ -86,7 +86,7 @@ export default function AboutSection() {
               {/* Main image */}
               <div className="relative bg-gradient-to-br from-indigo-600 to-purple-600 rounded-2xl p-2 shadow-2xl transform group-hover:scale-105 transition-transform duration-500">
                 <img
-                  src="/first.png"
+                  src="/first.jpg"
                   alt="Abyssinia Solomon - Full Stack Developer"
                   className="w-full h-auto rounded-xl border-4 border-white"
                 />

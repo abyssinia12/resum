@@ -8,8 +8,8 @@ export default function HeroSection() {
   }, []);
 
   const stats = [
-    { number: "2+", label: "Years Experience" },
-    { number: "15+", label: "Projects Completed" },
+    { number: "1+", label: "Years Experience" },
+    { number: "5+", label: "Projects Completed" },
     { number: "100%", label: "Client Satisfaction" },
   ];
 
@@ -121,9 +121,9 @@ export default function HeroSection() {
               <div className="absolute -inset-4 bg-gradient-to-r from-indigo-600 to-purple-600 rounded-full blur-xl opacity-20 group-hover:opacity-30 transition-opacity duration-500"></div>
 
               {/* Main image container */}
-              <div className="relative bg-gradient-to-br from-indigo-600 to-purple-600 rounded-full p-3 w-80 h-80 overflow-hidden shadow-2xl transform group-hover:scale-105 transition-transform duration-500">
+              <div className="relative bg-gradient-to-br from-indigo-600 to-purple-600 rounded-full p-3 w-80 h-85 overflow-hidden shadow-2xl transform group-hover:scale-105 transition-transform duration-500">
                 <img
-                  src="/first.png"
+                  src="/first1.jpg"
                   alt="Abyssinia Solomon - Full Stack Developer"
                   className="w-full h-full object-cover rounded-full border-4 border-white"
                 />

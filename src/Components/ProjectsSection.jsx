@@ -22,9 +22,20 @@ export default function ProjectsSection() {
       image: "/kids1.JPG",
       link: "#",
       technologies: ["React", "Node.js", "Supabase"],
-      category: "Educational",
+      category: "Full-Stack",
       github: "https://github.com/abyssinia12/KidsLearn.git",
       live: "https://kids-learn.vercel.app/",
+    },
+    {
+      title: "Fast Food Delivery",
+      description:
+        "Delicious Food, Delivered Safe is a modern food delivery website that brings fresh, tasty meals right to your doorstep. Designed with a clean and user-friendly interface, it allows customers to browse menus, place orders easily, and enjoy secure, reliable delivery every time.",
+      image: "/fast.JPG",
+      link: "#",
+      technologies: ["React", "CSS", "JavaScript"],
+      category: "Frontend",
+      github: "https://github.com/abyssinia12/Safe-Delivery.git",
+      // live: "https://kids-learn.vercel.app/",
     },
     // {
     //   title: "This Portfolio",

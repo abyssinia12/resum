@@ -9,7 +9,7 @@ export default function ProjectsSection() {
       description:
         "A comprehensive hotel, tour & car booking system built with modern web technologies. Features real-time availability, secure payments, and user management.",
       image: "/tour.PNG",
-      link: "#",
+      link: "https://github.com/abyssinia12/graduation-project.git",
       technologies: ["React", "Supabase", "Chapa", "Tailwind CSS"],
       category: "Full-Stack",
       github: "https://github.com/abyssinia12/graduation-project.git",
@@ -20,22 +20,34 @@ export default function ProjectsSection() {
       description:
         "Interactive learning platform designed for children aged 7-13 to learn HTML, CSS, and JavaScript through gamified lessons and hands-on coding exercises.",
       image: "/kids1.JPG",
-      link: "#",
+      link: "http://kids-learn-beige.vercel.app",
       technologies: ["React", "Node.js", "Supabase"],
       category: "Full-Stack",
       github: "https://github.com/abyssinia12/KidsLearn.git",
-      live: "https://kids-learn.vercel.app/",
+      live: "http://kids-learn-beige.vercel.app",
     },
     {
       title: "Fast Food Delivery",
       description:
         "Delicious Food, Delivered Safe is a modern food delivery website that brings fresh, tasty meals right to your doorstep. Designed with a clean and user-friendly interface, it allows customers to browse menus, place orders easily, and enjoy secure, reliable delivery every time.",
       image: "/fast.JPG",
-      link: "#",
+      link: "https://github.com/abyssinia12/Safe-Delivery.git",
       technologies: ["React", "CSS", "JavaScript"],
       category: "Frontend",
       github: "https://github.com/abyssinia12/Safe-Delivery.git",
       // live: "https://kids-learn.vercel.app/",
+    },
+
+    {
+      title: "Stock Management System",
+      description:
+        "Modern inventory management system designed to help businesses track products, monitor stock levels, and manage sales efficiently. Built with a responsive interface and real-time updates to ensure accuracy, speed, and ease of use.",
+      image: "/sm.JPG",
+      link: "https://amesigin.vercel.app",
+      technologies: ["React", "Tailwind CSS", "JavaScript"],
+      category: "Frontend",
+      github: "https://github.com/abyssinia12/Safe-Delivery.git",
+      live: "https://amesigin.vercel.app",
     },
     // {
     //   title: "This Portfolio",
